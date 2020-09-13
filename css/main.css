@@ -504,6 +504,10 @@ header.price-header {
   padding: 5% 0;
 }
 
+.price__main:first-child {
+  margin: 0;
+}
+
 .price__main__case {
   margin: 0 auto;
   width: 50%;
